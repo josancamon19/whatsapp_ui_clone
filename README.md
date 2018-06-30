@@ -1,4 +1,4 @@
-# whatsapp_clone
+# Whatsapp Ui clone
 
 This code, contains a ui clone of whatsapp.
 
